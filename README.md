@@ -1,6 +1,6 @@
 # typing-game
 
-> Vanilla JS로 만든 타이핑 게임
+> Vanilla JS로 만든 타이핑 게임  
 > 블로그 : <https://gororingcoding.tistory.com/>
 
 ## 목차
